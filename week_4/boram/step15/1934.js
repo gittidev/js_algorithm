@@ -16,7 +16,8 @@ let n = parseInt(input[0]);
 
 // for (let i = 1; i <= n; i++) {
 //   const [a, b] = input[i].split(" ").map(Number);
-//   console.log(gcd(a, b));
+//   console
+// .log(gcd(a, b));
 // }
 
 function lcm(a, b) {
